@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="pose_estimate_3d" type="pose_estimate_3d.py" name="pose_estimate_3d_node"/>
+</launch>
